@@ -1,0 +1,37 @@
+1. Meta Ai
+2. Google
+3. Anthrophic
+4 .Twitter/X
+6. OpenAI
+7. AI Video generation
+8. Google
+9. AI Image genration
+10. Code Generation
+
+Sec-B
+11. Large Language Model
+12. it is a branch of ai use for genrating contents like text, image, etc.
+13. Prompt are instructions we give to ai 
+14. 
+15. in multimodel multiple ai models works simultaneously on some work
+16. hallucinations are mistake which ai makes 
+17. tokens are unit of data
+18. maximum amount of info ai can process read and rememeber
+19.
+20. 
+
+sec-c
+24. Model Context Protocol
+25. api key is used to acess services
+26. rate limit in ai is a limit after which the ai stop working
+27. cursor is ai ide like antigravity
+
+sec-d
+31. it converts our speech to text in real time
+32. ai say our text into live speech
+33. ocr helps to recognize text from image 
+35. text to video ai creates ai video from our prompt
+37. they have extrem processing power
+38. neural processing unit
+40. running ai model offline on our system
+ 
